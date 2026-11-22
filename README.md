@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/tasin-py">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=CSE+Undergraduate+%40+North+South+University;I+build+the+tools+I+wish+already+existed;Windows+%E2%80%A2+Linux+%E2%80%A2+Android+TV+%E2%80%A2+Phones;Go+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C%23+%E2%80%A2+JS;Video+editor%2C+audio+nerd%2C+Discord+community+guy" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=CSE+Undergraduate+%40+North+South+University;I+build+the+tools+I+wish+already+existed;Windows+%E2%80%A2+Linux+%E2%80%A2+Android+TV+%E2%80%A2+Phones;Go+%E2%80%A2+C%2B%2B+%E2%80%A2+Python+%E2%80%A2+Java+%E2%80%A2+C%23+%E2%80%A2+JS;Video+editor+and+Discord+community+guy" alt="Typing intro" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ studying:    B.Sc. in Computer Science & Engineering @ North South University
 based_in:    Dhaka, Bangladesh
 builds_for:  [Windows, Linux, Android, Android TV, iPhone]
 also_into:   [video editing, content creation, audio production, community management]
-motto:       "Curiosity leads to discovery. Experimentation leads to creation."
+motto:       "Six billion kilometers away, a pale blue dot in an endless universe, yet we fight over so little."
 ```
 
 <!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
@@ -224,13 +224,13 @@ My fork of NOVA Video Player, with a dedicated online streaming option and custo
 
 ## 🎮 Beyond Technology
 
-I'm a big fan of **story-driven games**, immersive worlds and memorable characters. I like games that offer great storytelling, meaningful choices and unforgettable experiences.
+I'm a big fan of **story-driven games**, immersive worlds and memorable characters. I like games that offer great storytelling, meaningful choices and unforgettable experiences. Click a game to open its Steam page, or add me on [Steam](https://steamcommunity.com/id/tasin_py/).
 
 <p align="left">
-  <img src="https://img.shields.io/badge/The%20Wolf%20Among%20Us-1e293b?style=for-the-badge&logo=steam&logoColor=white" alt="The Wolf Among Us" />
-  <img src="https://img.shields.io/badge/Red%20Dead%20Redemption%202-1e293b?style=for-the-badge&logo=rockstargames&logoColor=white" alt="Red Dead Redemption 2" />
-  <img src="https://img.shields.io/badge/Grand%20Theft%20Auto%20IV-1e293b?style=for-the-badge&logo=rockstargames&logoColor=white" alt="Grand Theft Auto IV" />
-  <img src="https://img.shields.io/badge/The%20Walking%20Dead%20(Telltale)-1e293b?style=for-the-badge&logo=steam&logoColor=white" alt="The Walking Dead (Telltale Series)" />
+  <a href="https://store.steampowered.com/app/250320/"><img src="https://img.shields.io/badge/The%20Wolf%20Among%20Us-1e293b?style=for-the-badge&logo=steam&logoColor=white" alt="The Wolf Among Us" /></a>
+  <a href="https://store.steampowered.com/app/1174180/"><img src="https://img.shields.io/badge/Red%20Dead%20Redemption%202-1e293b?style=for-the-badge&logo=rockstargames&logoColor=white" alt="Red Dead Redemption 2" /></a>
+  <a href="https://store.steampowered.com/app/12210/"><img src="https://img.shields.io/badge/Grand%20Theft%20Auto%20IV-1e293b?style=for-the-badge&logo=rockstargames&logoColor=white" alt="Grand Theft Auto IV" /></a>
+  <a href="https://store.steampowered.com/app/1449690/"><img src="https://img.shields.io/badge/The%20Walking%20Dead%20(Telltale)-1e293b?style=for-the-badge&logo=steam&logoColor=white" alt="The Walking Dead (Telltale Series)" /></a>
 </p>
 
 <!-- ═══════════════════════════  SOCIALS  ═══════════════════════════ -->
@@ -241,6 +241,7 @@ I'm a big fan of **story-driven games**, immersive worlds and memorable characte
   <a href="https://fb.com/tasin_py"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/tasin.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/Tasin_py"><img src="https://img.shields.io/badge/X-Tasin__py-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://steamcommunity.com/id/tasin_py/"><img src="https://img.shields.io/badge/Steam-tasin__py-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
   <a href="https://discord.com/users/tasin_py"><img src="https://img.shields.io/badge/Discord-tasin__py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/tasin-py"><img src="https://img.shields.io/badge/GitHub-tasin--py-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -258,7 +259,7 @@ Starring a repo ⭐ or reporting an issue helps a lot too.
 <!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
 
 <p align="center">
-  <i>"Curiosity leads to discovery. Experimentation leads to creation."</i>
+  <i>"Six billion kilometers away, a pale blue dot in an endless universe, yet we fight over so little."</i>
 </p>
 
 <p align="center">
