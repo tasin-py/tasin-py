@@ -1,4 +1,4 @@
-S M Tasin Uddin /n
+S M Tasin Uddin •
 Tech Enthusiast • CSE Undergraduate • Creative Explorer
 
 <p align="center">
