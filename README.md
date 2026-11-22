@@ -1,5 +1,5 @@
 ## Hi there 👋
-github.com/tasin-py
+https://github.com/tasin-py
 
 <!--
 **tasin-py/tasin-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
