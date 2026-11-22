@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://fb.com/tasin.py"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/tasin.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/Tasin_py"><img src="https://img.shields.io/badge/X-Tasin__py-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://x.com/Tasin_ality"><img src="https://img.shields.io/badge/X-Tasin__ality-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://discord.com/users/tasin_py"><img src="https://img.shields.io/badge/Discord-tasin__py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://steamcommunity.com/id/tasin_py/"><img src="https://img.shields.io/badge/Steam-tasin__py-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
   <a href="https://www.supportkori.com/tasinpy"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
