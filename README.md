@@ -190,10 +190,6 @@ My fork of NOVA Video Player, with a dedicated online streaming option and custo
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tasin-py&hide_border=true&background=0F172A&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub streak" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tasin-py&hide_border=true&bg_color=0f172a&color=cbd5e1&line=38bdf8&point=ffffff&area=true&area_color=0ea5e9" alt="Contribution graph" />
 </p>
 
