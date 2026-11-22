@@ -234,7 +234,7 @@ I'm a big fan of **story-driven games**, immersive worlds and memorable characte
 ## 🌐 Find Me Around the Internet
 
 <p align="left">
-  <a href="https://fb.com/tasin_py"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://fb.com/tasin.py"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://instagram.com/tasin.py"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/Tasin_py"><img src="https://img.shields.io/badge/X-Tasin__py-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
   <a href="https://steamcommunity.com/id/tasin_py/"><img src="https://img.shields.io/badge/Steam-tasin__py-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
